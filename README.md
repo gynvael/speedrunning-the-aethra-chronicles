@@ -14,7 +14,7 @@
 ## Table of Content
 
   * [Category Rules](category-rules.md) - only Any% v1.1 DOSBox so far.
-  * [Known Glitches](known-glitches.md) - work in progress.
+  * [Known Glitches](glitches/README.md) - work in progress.
 
 ## TODO list
 
