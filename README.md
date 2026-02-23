@@ -4,7 +4,7 @@
 
   * [Category Rules](category-rules.md) - only Any% v1.1 DOSBox so far.
   * [Known Glitches](glitches/README.md) - work in progress.
-  * [Tips and Tricks](trickes/README/md) - work in progress.
+  * [Tips and Tricks](trickes/README.md) - work in progress.
 
 ## About the game
 
