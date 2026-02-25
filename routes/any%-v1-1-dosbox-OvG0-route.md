@@ -22,7 +22,7 @@ The reason to trigger the fight with Queen/Vizier is because that sets the King'
 
 Details follow:
 
-1. Start the game, skip intro, and [hold F3](/tricks/sleep-divisor-f2-f3.md).
+1. Run the game, skip intro, and [hold F3](/tricks/sleep-divisor-f2-f3.md).
 2. `(S)tart or Restart the game`, select the pre-prepared slot, and start the timer when clicking `Yes`.
 3. Immidiately exit DOSBox (e.g. `CTRL+F9`) and start it and the game again (remember that DOSBox load time doesn't count, per category rules).
 4. Hold F3, `(P)lay or Load Game`, select same slot.
