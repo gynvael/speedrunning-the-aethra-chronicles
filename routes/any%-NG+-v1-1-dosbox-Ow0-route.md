@@ -1,4 +1,4 @@
-# Any% v1.1 (DOSBox) OvG0 Route
+# Any% NG+ v1.1 (DOSBox) Ov0 Route
 
   * **Route version:** 2026-02-25
 
