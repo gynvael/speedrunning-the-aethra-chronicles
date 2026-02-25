@@ -2,8 +2,8 @@
 
 Table of Content:
 
-  * Any% (v1.1 DOSBox)
-  * Any% Clean State (v1.1 DOSBox)
+  * [Any% (v1.1 DOSBox)](#any-v11-dosbox)
+  * [Any% Clean State (v1.1 DOSBox)](#any-v11-clean-state-dosbox)
 
 
 ## Any% v1.1 (DOSBox)
