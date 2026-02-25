@@ -12,7 +12,7 @@ You'll need a very-late-game save that meets the following requirements:
    * You have a bard who can cast Soothing the Savage Beastye (SSB).
    * You have the following items in your inventory: Baby or Dead Baby, Key Talisman, both Half of Key(s).
 
-Make a copy of this safe. You'll have to restore it for every run.
+Make a copy of this save. You'll have to restore it for every run.
 
 ## Route
 
