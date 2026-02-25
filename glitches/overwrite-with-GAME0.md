@@ -1,4 +1,4 @@
-# Overwrite with GAME0
+# Overwrite with GAME0 (aka Ow0)
 
 **Discovered by: Blimix** (not sure if there was prior art, but that's how I've learnt about it)
 
