@@ -25,7 +25,7 @@ Details follow:
 1. Start the game, skip intro, and [hold F3](/tricks/sleep-divisor-f2-f3.md).
 2. `(S)tart or Restart the game`, select the pre-prepared slot, and start the timer when clicking `Yes`.
 3. Immidiately exit DOSBox (e.g. `CTRL+F9`) and start it and the game again (remember that DOSBox load time doesn't count, per category rules).
-4. `(P)lay or Load Game`, select same slot.
+4. Hold F3, `(P)lay or Load Game`, select same slot.
 5. Confirm exiting dungeon and head south to exit the city.
 6. Cast Beacon.
 7. Run full speed to the Ring mountain passage entry while running away from any encounters.
