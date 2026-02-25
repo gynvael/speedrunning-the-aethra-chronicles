@@ -2,7 +2,8 @@
 
 ## Resources in this repo
 
-  * [Category Rules](category-rules.md) - only Any% v1.1 DOSBox so far.
+  * [Category Rules](category-rules.md) - two variants of Any% v1.1 DOSBox so far.
+  * [Routes](routes/README.md) - work in progress.
   * [Known Glitches](glitches/README.md) - work in progress.
   * [Tips and Tricks](tricks/README.md) - work in progress.
 
@@ -16,8 +17,3 @@
   * https://netsilik.nl/Aethra/ (by Pixelfck) - In-depth resources about the game, inc. maps, item database, shop lists, spells, etc.
   * https://www.blimix.com/aethra/ (by Blimix) - More useful in-depth resources.
   * http://www.angelfire.com/mi/raffaele55/games/aethra.html (by Raffaele; if it doesn't work try web.archive.org: [click](https://web.archive.org/web/20250328103557/http://www.angelfire.com/mi/raffaele55/games/aethra.html) - Full walkthough with some additional interesting notes on the game.
-
-## TODO list
-
-  1. Add a list of known glitches and bugs (we have some cool ones)
-  2. Add a route for Any%
