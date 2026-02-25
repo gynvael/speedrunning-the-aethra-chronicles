@@ -2,15 +2,15 @@
 
 Table of Content:
 
-  * [Any% Clean State (v1.1 DOSBox)](#any-v11-clean-state-dosbox) - Main category where you actually get to play some of the game.
-  * [Any% (v1.1 DOSBox)](#any-v11-dosbox) - Under 3 minutes category.
+  * [Any% NG v1.1 (DOSBox)](#any-v11-clean-state-dosbox) - Main category where you actually get to play some of the game.
+  * [Any% NG+ v1.1 (DOSBox)](#any-v11-dosbox) - Under 3 minutes category.
   
 
-## Any% v1.1 Clean State (DOSBox)
+## Any% NG v1.1 (DOSBox)
 
-This is the Any% Clean State category for the newest known version of the game - v1.1 registered with GAME.EXE/GAME.OVR being dated 1995-11-08 (in the installer's LZH files) - player under DOSBox.
+This is the Any% New Game (clean save state) category for the newest known version of the game - v1.1 registered with GAME.EXE/GAME.OVR being dated 1995-11-08 (in the installer's LZH files) - player under DOSBox.
 
-Main difference between Any% v1.1 and Any% Clean State is that in this category you need to start with a completely clean/fresh state (no pre-existing saves allowed).
+Main difference between Any% NG+ v1.1 and Any% NG v1.1 is that in this category you need to start with a completely clean/fresh state (no pre-existing saves allowed).
 
 Please note that the rules are preliminary and might change after being tested or as new things are discovered.
 
@@ -27,9 +27,9 @@ Rules:
   9. All in-game glitches and bugs are allowed, with the following exceptions:
      1. Per Rule 3 - using previously existing save states is disallowed. You can use save states which you create from the beginning of the current run.
     
-## Any% v1.1 (DOSBox)
+## Any% v1.1 NG+ (DOSBox)
 
-This is the Any% category for the newest known version of the game - v1.1 registered with GAME.EXE/GAME.OVR being dated 1995-11-08 (in the installer's LZH files) - player under DOSBox.
+This is the Any% New Game+ category for the newest known version of the game - v1.1 registered with GAME.EXE/GAME.OVR being dated 1995-11-08 (in the installer's LZH files) - player under DOSBox.
 
 Please note that the rules are preliminary and might change after being tested or as new things are discovered.
 
