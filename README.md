@@ -2,7 +2,7 @@
 
 ## Resources in this repo
 
-  * [Category Rules](category-rules.md) - two variants of Any% v1.1 DOSBox so far.
+  * [Category Rules](category-rules.md) - two variants of Any% v1.1 (DOSBox) so far.
   * [Routes](routes/README.md) - work in progress.
   * [Known Glitches](glitches/README.md) - work in progress.
   * [Tips and Tricks](tricks/README.md) - work in progress.
