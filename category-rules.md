@@ -20,7 +20,7 @@ Rules:
   2. Time ends when the King's end-game dialog acknowledging returning of his son pops up. This can be both the good ending (_I am overwhelmed with joy..._) or bad ending (_You have returned with my poor dead child..._).
   3. All available save slots MUST be in the "fresh" (GAME0) state, including current state (just like after installing the game).
   4. DOSBox **MUST run at constant 12000 cycles** (`dosbox.conf` should have `cycles: #12000` in the `[cpu]` section). Changing CPU cycles is disallowed.
-  5. Shutting down DOSBox or the game is **allowed**. Time between DOSBox exiting and DOSBox starting again (DOSBox splashscreen disapears and the terminal window appears) is **not counted**.
+  5. Shutting down DOSBox or the game is **allowed**. DOSBox load time (from starting DOSBox to DOSBox splashscreen disapearing/DOS terminal window appearing) is **not counted**.
   6. Using `F3` (to max [sleep divisor](tricks/sleep-divisor-f2-f3.md)) is **allowed**. It can be done before you start the run.
   7. The **only external tool that can be used during the run is a PRNG calculator**. However **it must not read PRNG state from the memory or input from screen capture**, but rather MUST recover the state based on runner inputing values manually (follow the spirit of this rule, not the exact wording). **PRNG calculator must be displayed on screen when used**.
   8. You MUST remain on the same version of the game and MUST run only game (DOSBox) instance.
@@ -39,7 +39,7 @@ Rules:
   2. Time ends when the King's end-game dialog acknowledging returning of his son pops up. This can be both the good ending (_I am overwhelmed with joy..._) or bad ending (_You have returned with my poor dead child..._).
   3. You can use existing specially prepared save slots and [Overwrite with GAME0](glitches/overwrite-with-GAME0.md) glitch.
   4. DOSBox **MUST run at constant 12000 cycles** (`dosbox.conf` should have `cycles: #12000` in the `[cpu]` section). Changing CPU cycles is disallowed.
-  5. Shutting down DOSBox or the game is **allowed**. Time between DOSBox exiting and DOSBox starting again (DOSBox splashscreen disapears and the terminal window appears) is **not counted**.
+  5. Shutting down DOSBox or the game is **allowed**. DOSBox load time (from starting DOSBox to DOSBox splashscreen disapearing/DOS terminal window appearing) is **not counted**.
   6. Using `F3` (to max [sleep divisor](tricks/sleep-divisor-f2-f3.md)) is **allowed**. It can be done before you start the run.
   7. The **only external tool that can be used during the run is a PRNG calculator**. However **it must not read PRNG state from the memory or input from screen capture**, but rather MUST recover the state based on runner inputing values manually (follow the spirit of this rule, not the exact wording). **PRNG calculator must be displayed on screen when used**.
   8. You MUST remain on the same version of the game and MUST run only game (DOSBox) instance.
