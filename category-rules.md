@@ -16,7 +16,7 @@ Please note that the rules are preliminary and might change after being tested o
 
 Rules:
 
-  1. Time starts once you click `(S)tart or Restart the game` and select the save slot.
+  1. Time starts once you click `Yes` (or `Y` key) in the `Start/Restart Game #n` prompt after using `(S)tart or Restart the game` and selecting a save slot.
   2. Time ends when the King's end-game dialog acknowledging returning of his son pops up. This can be both the good ending (_I am overwhelmed with joy..._) or bad ending (_You have returned with my poor dead child..._).
   3. All available save slots MUST be in the "fresh" (GAME0) state, including current state (just like after installing the game).
   4. DOSBox **MUST run at constant 12000 cycles** (`dosbox.conf` should have `cycles: #12000` in the `[cpu]` section). Changing CPU cycles is disallowed.
@@ -35,7 +35,7 @@ Please note that the rules are preliminary and might change after being tested o
 
 Rules:
 
-  1. Time starts once you click `(S)tart or Restart the game` and select the save slot.
+  1. Time starts once you click `Yes` (or `Y` key) in the `Start/Restart Game #n` prompt after using `(S)tart or Restart the game` and selecting a save slot.
   2. Time ends when the King's end-game dialog acknowledging returning of his son pops up. This can be both the good ending (_I am overwhelmed with joy..._) or bad ending (_You have returned with my poor dead child..._).
   3. You can use existing specially prepared save slots and [Overwrite with GAME0](glitches/overwrite-with-GAME0.md) glitch.
   4. DOSBox **MUST run at constant 12000 cycles** (`dosbox.conf` should have `cycles: #12000` in the `[cpu]` section). Changing CPU cycles is disallowed.
@@ -44,3 +44,11 @@ Rules:
   7. The **only external tool that can be used during the run is a PRNG calculator**. However **it must not read PRNG state from the memory or input from screen capture**, but rather MUST recover the state based on runner inputing values manually (follow the spirit of this rule, not the exact wording). **PRNG calculator must be displayed on screen when used**.
   8. You MUST remain on the same version of the game and MUST run only game (DOSBox) instance.
   9. All in-game glitches and bugs are allowed.
+
+### Q&A
+
+  1. **Q: Is doing Ow0 imidiatelly on start on a pre-existing game slot really starting the game anew?**<br>
+    A: From a technical standpoint, yes. The majority of the previous game state is overwriten the moment the new game save slot is selected. The exception is the `PARTY.DAT` file (old party and their inventory), which would have been overwriten after the party creation. But, because creating the party is considered already playing the game, skipping it is fair game in this category.
+    
+  2. **Q: Can I use a savegame editor to prepare the pre-existing party in this category?**<br>
+    A: No. You actually have to play the game to prepare the pre-existing party (or get a save from someone else who did).
