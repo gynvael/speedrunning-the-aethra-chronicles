@@ -4,6 +4,9 @@
 
 A route for the [Any% v1.1 (DOSBox)](/category-rules.md#any-v11-dosbox) category. It should take below 3 minutes to finish.
 
+Example playthrough: [The Aethra Chronicles Any% NG+ v1.1 (DOSBox): 1m45s32](https://www.youtube.com/watch?v=rNo72fYSpTA).
+
+
 ## Preparation
 
 You'll need a very-late-game save that meets the following requirements:
