@@ -11,7 +11,7 @@ Example playthrough: [The Aethra Chronicles Any% NG+ v1.1 (DOSBox): 1m45s32](htt
 
 You'll need a very-late-game save that meets the following requirements:
 
-   * You have a mage who can cast Pass Through Stone (PTS), Beacon, and Teleport. The more mana they have the better.
+   * You have a mage who can cast Pass Through Stone (PTS), Beacon, and Teleport. The more mana they have and the higher level they are the better (PTS range scales with mage's level).
    * You have a bard who can cast Soothing the Savage Beastye (SSB).
    * You have the following items in your inventory: Baby or Dead Baby, Key Talisman, both Half of Key(s).
 
