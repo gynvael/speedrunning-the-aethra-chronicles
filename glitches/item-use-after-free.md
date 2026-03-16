@@ -35,7 +35,7 @@ Please note that it's not yet clear if this is useful and this is still being in
 
 ## Other Notes
 
-* "Use an Item" is not the only action that uses the item list. Other actions include casting the (Cleric) "Discover Curse" / "Remove Curse" or (Mage) "Recognize Curse" / "Repeal Curse" spells. These actually seem to be able to flip a 1 to a 0 in memory.
+* "Use an Item" is not the only action that uses the item list. Other actions include casting the (Cleric) "Discover Curse" / "Remove Curse" or (Mage) "Recognize Curse" / "Repeal Curse" spells. These actually seem to be able to flip a 1 to a 0 in memory, but the item structure is pretty large ([0x4e bytes](https://netsilik.nl/Aethra/fileInfo/item.php)), so this makes it a bit less usable.
 * Shops have a different item list, but it also has a similar though more limited bug. This is yet to be explored though.
 
 ## Technical Notes
