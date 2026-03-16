@@ -4,4 +4,4 @@ Work in progress.
 
   * [Overwrite with GAME0](overwrite-with-GAME0.md)
   * [Initial Beacon/Teleport](initial-beacon-teleport.md)
-  * [Item Use-After-Free](item-use-after-free.md) (zero-item-list bug family)
+  * [Item Use-After-Free](item-use-after-free.md) (Zero-Item-List bug family, including: Item Use-After-Free, Negative Inventory, and Stats Overwrite)
