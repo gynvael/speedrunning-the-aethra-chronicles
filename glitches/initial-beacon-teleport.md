@@ -15,4 +15,4 @@ World map sub-sector y-coord         : 2
 Party x-coord on World map sub-sector: 2
 Party y-coord on World map sub-sector: 2
 ```
-
+![Default beacon location](res/default_beacon.png)
