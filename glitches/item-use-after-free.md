@@ -19,4 +19,7 @@ Simplest way to exploit this glitch:
 
 ## Negative Inventory
 
-TODO
+If you perform Item Use-After-Free and use up the item, the game will attempt to remove that non-existant item. The result of this is having -1 (255) items in the inventory. This is a very volatile state and some actions will make the game crash.
+
+
+
