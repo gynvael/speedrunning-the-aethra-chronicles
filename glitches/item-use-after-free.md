@@ -21,7 +21,7 @@ A more efficient way is to give the character e.g. 10 Torches (or whatever) and 
 
 **Important**: Ignore the names of the items shown on the list - they are taken from whatever was shown previously on the list (e.g. if you looked at another character's items in the meantime). Regardless of the item name, the item that will actually be used is the one that occupied said inventory slot previously for the selected character.
 
-## Negative Inventory
+## Negative Inventory and Stats Overwrite
 
 If you perform Item Use-After-Free and use up the item, the game will attempt to remove that non-existant item. The result of this is having -1 (255) items in the inventory. This is a very volatile state and some actions will make the game crash.
 
@@ -29,7 +29,7 @@ If you perform Item Use-After-Free and use up the item, the game will attempt to
 
 On the flip side, if you tread carefully and **give the affected character another item, they will go back to having 0 items**. What happens to the item you gave the character? **It overwrites part of this character's statistics**:
 
-TODO IMAGE
+![Overwriten stats](res/stats_overwrite.png)
 
 Please note that it's not yet clear if this is useful and this is still being investigated.
 
