@@ -6,4 +6,5 @@ Work in progress.
   * [Initial Beacon/Teleport](initial-beacon-teleport.md)
   * [Item Use-After-Free](item-use-after-free.md) (Zero-Item-List bug family, including: Item Use-After-Free, Negative Inventory, and Stats Overwrite)
   * [Infinite Gold / Item Duplication](inf-gold-item-dup.md)
+  * [White GEM Shopping](white-power-gem.md)
 
