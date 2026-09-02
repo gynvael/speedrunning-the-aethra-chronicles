@@ -4,7 +4,7 @@
 
 ¹ As part of the bit-perfect recompilation project and further Claude Code reconstructed code analysis (yes, AI found this one).
 
-**TL;DR: Casting "Soothing the Savagye Beastye" — a run-away spell - still grants you XP for the fight as if you'd won.**
+**TL;DR: Casting "Soothing the Savagye Beastye" — a run-away spell — still grants you XP for the fight as if you'd won.**
 
 Nothing more to add there really. Just start a fight with some high-level monster(s) and cast the spell with your bard. Repeat until you get as much XP as you need.
 
