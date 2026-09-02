@@ -28,4 +28,6 @@
 
 Follow the steps in the Infinite Gold section. Then just buy the item(s) back 🤷.
 
+This unfortunatelly works only with sellable items, i.e. items which any shop will buy (sadly not possible to the most powerful quest items).
+
 ![Buying interface](res/item_dup.png)
